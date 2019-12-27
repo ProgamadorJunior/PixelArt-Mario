@@ -1,0 +1,461 @@
+body{
+    display:flex;
+  }
+  .mario-base{
+    border:0.2px solid black;
+    width:20px;
+    height:20px;
+  }
+  .mario-04 .p{
+      background-color: brown;
+  }
+  .mario-05 .p{
+    background-color: brown;
+}
+.mario-06 .p{
+    background-color: brown;
+}
+.mario-07 .p{
+    background-color: brown;
+}
+.mario-05 .o{
+    background-color: brown;
+}
+.mario-06 .o{
+    background-color: brown;
+}
+.mario-07 .o{
+    background-color: brown;
+}
+.mario-06 .n{
+    background-color: blue;
+}
+.mario-07 .n{
+    background-color: blue;
+}
+.mario-08 .n{
+    background-color: blue;
+}
+.mario-04 .m{
+    background-color: #f0b4c7;
+}
+
+.mario-05 .m{
+    background-color: #f0b4c7;
+}  
+.mario-06 .m{
+    background-color: blue;
+}
+.mario-07 .m{
+    background-color: blue;
+}
+.mario-08 .m{
+    background-color: blue;
+}
+.mario-09 .m{
+    background-color: blue;
+}
+.mario-10 .m{
+    background-color: blue;
+}
+.mario-11 .m{
+    background-color: blue;
+}
+.mario-12 .m{
+    background-color: blue;
+}
+.mario-13 .m{
+    background-color: blue;
+}
+.mario-14 .m{
+    background-color:#f0b4c7;
+}
+.mario-15 .m{
+    background-color: #f0b4c7;
+}
+.mario-11 .n{
+    background-color: blue;
+}
+.mario-12 .n{
+    background-color: blue;
+}
+.mario-13 .n{
+    background-color: blue;
+}
+.mario-12 .o{
+    background-color: brown;
+}
+.mario-13 .o{
+    background-color: brown;
+}
+.mario-14 .o{
+    background-color: brown;
+}
+.mario-12 .o{
+    background-color: brown;
+}
+.mario-13 .o{
+    background-color: brown;
+}
+.mario-14 .o{
+    background-color: brown;
+}
+.mario-04 .l{
+    background-color: #f0b4c7;
+}
+.mario-05 .l{
+    background-color: #f0b4c7;
+}
+
+.mario-12 .p{
+    background-color: brown;
+}
+.mario-13 .p{
+    background-color: brown;
+}
+.mario-14 .p{
+    background-color: brown;
+}
+.mario-15 .p{
+    background-color: brown;
+}
+.mario-06 .l{
+    background-color: #f0b4c7;
+}
+.mario-07 .l{
+    background-color: blue;
+}
+
+.mario-08 .l{
+    background-color: blue;
+}
+
+.mario-09 .l{
+    background-color: blue;
+}
+
+.mario-10 .l{
+    background-color: blue;
+}
+
+.mario-11 .l{
+    background-color: blue;
+}
+
+.mario-12 .l{
+    background-color: blue;
+}
+
+.mario-13 .l{
+    background-color: #f0b4c7;
+}
+
+.mario-14 .l{
+    background-color: #f0b4c7;
+}
+
+.mario-15 .l{
+    background-color: #f0b4c7;
+}
+.mario-04 .k{
+    background-color: #f0b4c7;
+}
+
+.mario-05 .k{
+    background-color: #f0b4c7;
+}
+.mario-06 .k{
+    background-color: red;
+}
+.mario-07 .k{
+    background-color: blue;
+}
+.mario-08 .k{
+    background-color: yellow;
+}
+.mario-09 .k{
+    background-color: blue;
+}
+.mario-10 .k{
+    background-color: blue;
+}
+.mario-11 .k{
+    background-color: yellow;
+}
+.mario-12 .k{
+    background-color: blue;
+}
+.mario-13 .k{
+    background-color: red;
+}
+.mario-14 .k{
+    background-color: #f0b4c7;
+}
+.mario-15 .k{
+    background-color: #f0b4c7;
+}
+.mario-04 .j{
+    background-color: red;
+}
+.mario-05 .j{
+    background-color: red;
+}
+.mario-06 .j{
+    background-color: red;
+}
+.mario-07 .j{
+    background-color: red;
+}
+.mario-08 .j {
+    background-color: blue;
+}
+.mario-09 .j{
+    background-color: blue;
+}
+.mario-10 .j{
+    background-color: blue;
+}
+.mario-11 .j{
+    background-color: blue;
+}
+.mario-12 .j{
+    background-color: red;
+}
+.mario-13 .j{
+    background-color: red;
+}
+.mario-14 .j{
+    background-color: red;
+}
+.mario-15 .j{
+    background-color: red;
+}
+.mario-05 .i{
+    background-color: red;
+}
+.mario-06 .i{
+    background-color: red;
+}
+.mario-07 .i{
+    background-color: red;
+}
+.mario-08 .i{
+    background-color: blue;
+}
+.mario-09 .i{
+    background-color: red;
+}
+.mario-10 .i{   
+    background-color: red;
+}
+.mario-11 .i{
+    background-color: blue;
+}
+.mario-12 .i{
+    background-color: red;
+}
+.mario-13 .i{
+    background-color: red;
+}
+.mario-14 .i{
+    background-color: red;
+}
+.mario-06 .h{
+    background-color: red;
+}
+.mario-07 .h{
+    background-color: red;
+}
+.mario-08 .h{
+    background-color: blue;
+}
+.mario-09 .h{
+    background-color: red;
+}
+.mario-10 .h{
+    background-color: red;
+}
+.mario-11 .h{
+    background-color: blue;
+}
+.mario-07 .g{
+    background-color: #f0b4c7;
+}
+.mario-08 .g{
+    background-color: #f0b4c7;
+}
+.mario-09 .g{
+    background-color: #f0b4c7;
+}
+.mario-10 .g{
+    background-color: #f0b4c7;
+}
+.mario-11 .g{
+    background-color: #f0b4c7;
+}
+.mario-12 .g{
+    background-color: #f0b4c7;
+}
+.mario-13 .g{
+    background-color: #f0b4c7;
+}
+.mario-06 .f{
+    background-color: brown;
+}
+.mario-07 .f{
+    background-color: #f0b4c7;
+}
+.mario-08 .f{
+    background-color: #f0b4c7;
+}
+.mario-09 .f{
+    background-color: #f0b4c7;
+}
+.mario-10 .f{
+    background-color: #f0b4c7;
+}
+.mario-11 .f{
+    background-color: black;
+}
+.mario-12 .f{
+    background-color: black;
+}
+.mario-13 .f{
+    background-color: black;
+}
+.mario-14 .f{
+    background-color: black;
+}
+.mario-05 .e{
+    background-color: brown;
+}
+.mario-06 .e{
+    background-color:#f0b4c7 ;
+}
+.mario-07 .e{
+    background-color: brown ;
+}
+.mario-08 .e{
+    background-color: brown;
+}
+.mario-09 .e{
+    background-color:#f0b4c7 ;
+}
+.mario-10 .e{
+    background-color:#f0b4c7 ;
+}
+.mario-11 .e{
+    background-color:#f0b4c7 ;
+}
+.mario-12 .e{
+    background-color: black;
+}
+.mario-13 .e{
+    background-color:#f0b4c7 ;
+}
+.mario-14 .e{
+    background-color:#f0b4c7 ;
+}
+.mario-15 .e{
+    background-color:#f0b4c7 ;
+}
+.mario-05 .d{
+    background-color: brown;
+}
+.mario-06 .d{
+    background-color: #f0b4c7;
+}
+.mario-07 .d{
+    background-color: brown;
+}
+.mario-08 .d{
+    background-color: #f0b4c7;
+}
+.mario-09 .d{
+    background-color: #f0b4c7;
+}
+.mario-10 .d{
+    background-color: #f0b4c7;
+}
+.mario-11 .d{
+    background-color: black;
+}
+.mario-12 .d{
+    background-color: #f0b4c7;
+}
+.mario-13 .d{
+    background-color: #f0b4c7;
+}
+.mario-14 .d{
+    background-color: #f0b4c7;
+}
+.mario-06 .c{
+    background-color: brown;
+}
+.mario-07 .c{
+    background-color: brown;
+}
+.mario-08 .c{
+    background-color: brown;
+}
+.mario-09 .c{
+    background-color: #f0b4c7;
+}
+.mario-10 .c{
+    background-color: #f0b4c7;
+}
+.mario-11 .c{
+    background-color: black;
+}
+.mario-12 .c{
+    background-color: #f0b4c7;
+}
+.mario-06 .b{
+    background-color: red;
+}
+.mario-07 .b{
+    background-color: red;
+}
+.mario-08 .b{
+    background-color: red;
+}
+.mario-09 .b{
+    background-color: red;
+}
+.mario-10 .b{
+    background-color: red;
+}
+.mario-11 .b{
+    background-color: red;
+}
+
+.mario-12 .b{
+    background-color: red;
+}
+.mario-13 .b{
+    background-color: red;
+}
+.mario-14 .b{
+    background-color: red;
+}
+.mario-15 .b{
+    background-color: red;
+}
+.mario-07 .a{
+    background-color: red;
+}
+.mario-08 .a{
+    background-color: red;
+}
+.mario-09 .a{
+    background-color: red;
+}
+.mario-10 .a{
+    background-color: red;
+}
+.mario-11 .a{
+    background-color: red;
+}
+.mario-12 .a{
+    background-color: red;
+}
